@@ -1,2 +1,2 @@
 # Cometa_practical_task4
-Check practical_assignment4.txt to see full comments and attached screens
+Check file "Практическое задание №3.pdf" to see full comments and attached screens.
